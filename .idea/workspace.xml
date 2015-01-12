@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="240d7e97-45a1-4f06-a29e-7c4f9be52009" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Button dropdowns.html" afterPath="$PROJECT_DIR$/components/Button dropdowns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Button groups.html" afterPath="$PROJECT_DIR$/components/Button groups.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Dropdowns.html" afterPath="$PROJECT_DIR$/components/Dropdowns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/media_object.html" afterPath="$PROJECT_DIR$/components/media_object.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Input groups.html" afterPath="$PROJECT_DIR$/components/Input groups.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bootstrapsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,35 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wells.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/wells.html">
+      <file leaf-file-name="Input groups.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/Input groups.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="480">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.52071005" vertical-offset="2230" max-vertical-offset="3075">
+              <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button groups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Button groups.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="11.041667" vertical-offset="1225" max-vertical-offset="2655">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button dropdowns.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/Button dropdowns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96503496" vertical-offset="4542" max-vertical-offset="5580">
-              <caret line="402" column="10" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
-              <folding>
-                <element signature="tag#div#13;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#14;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +42,8 @@
       <file leaf-file-name="Dropdowns.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Dropdowns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4583334" vertical-offset="55" max-vertical-offset="1500">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="-28.958334" vertical-offset="790" max-vertical-offset="1635">
+              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="100" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -101,9 +77,10 @@
         <option value="$PROJECT_DIR$/components/responsive_embed.html" />
         <option value="$PROJECT_DIR$/components/wells.html" />
         <option value="$PROJECT_DIR$/components/media_object.html" />
-        <option value="$PROJECT_DIR$/components/Dropdowns.html" />
         <option value="$PROJECT_DIR$/components/Button groups.html" />
         <option value="$PROJECT_DIR$/components/Button dropdowns.html" />
+        <option value="$PROJECT_DIR$/components/Dropdowns.html" />
+        <option value="$PROJECT_DIR$/components/Input groups.html" />
       </list>
     </option>
   </component>
@@ -241,7 +218,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -430,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Input groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84023666" vertical-offset="1600" max-vertical-offset="2445">
-          <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/pagination.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80813956" vertical-offset="895" max-vertical-offset="1755">
@@ -549,18 +519,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Dropdowns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4583334" vertical-offset="55" max-vertical-offset="1500">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/media_object.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39053255" vertical-offset="945" max-vertical-offset="3375">
           <caret line="85" column="271" selection-start-line="85" selection-start-column="271" selection-end-line="85" selection-end-column="271" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Button dropdowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="930">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#3;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#6;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#7;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#8;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#9;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#button#1;tag#div#9;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#10;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#11;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#12;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#13;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#14;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#15;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#15;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Button groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.31360948" vertical-offset="1225" max-vertical-offset="2655">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -573,22 +570,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Button groups.html">
+    <entry file="file://$PROJECT_DIR$/components/Dropdowns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="11.041667" vertical-offset="1225" max-vertical-offset="2655">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        <state vertical-scroll-proportion="-28.958334" vertical-offset="790" max-vertical-offset="1635">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="100" selection-end-column="95" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Button dropdowns.html">
+    <entry file="file://$PROJECT_DIR$/components/Input groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96503496" vertical-offset="4542" max-vertical-offset="5580">
-          <caret line="402" column="10" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
-          <folding>
-            <element signature="tag#div#13;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#14;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.52071005" vertical-offset="2230" max-vertical-offset="3075">
+          <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

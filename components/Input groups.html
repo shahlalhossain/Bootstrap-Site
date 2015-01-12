@@ -131,28 +131,70 @@
             </div><!-- /input-group -->
         </div><!-- /.col-lg-6 -->
     </div><!-- /.row -->
-    <br><br><br><br>
+    <br><br>
 
 
 
 
-    <p>Segmented buttons</p><br>
-    <div class="input-group">
-        <div class="input-group-btn">
-            <!-- Button and dropdown menu -->
+    <p>Segmented buttons</p>
+    <div class="col-lg-6">
+        <div class="input-group">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="button">Action</button>
+                <button class="btn btn-default dropdown-toggle" aria-expanded="false" data-toggle="dropdown" type="button">
+                    <span class="caret"></span>
+                    <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li>
+                        <a href="#">Action</a>
+                    </li>
+                    <li>
+                        <a href="#">Another action</a>
+                    </li>
+                    <li>
+                        <a href="#">Something else here</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <a href="#">Separated link</a>
+                    </li>
+                </ul>
+            </div>
+            <input class="form-control" type="text" aria-label="Text input with segmented button dropdown">
         </div>
-        <input type="text" class="form-control" aria-label="...">
     </div>
-
-    <div class="input-group">
-        <input type="text" class="form-control" aria-label="...">
-        <div class="input-group-btn">
-            <!-- Button and dropdown menu -->
+    <div class="col-lg-6">
+        <div class="input-group">
+            <input class="form-control" type="text" aria-label="Text input with segmented button dropdown">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="button">Action</button>
+                <button class="btn btn-default dropdown-toggle" aria-expanded="false" data-toggle="dropdown" type="button">
+                    <span class="caret"></span>
+                    <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                    <li>
+                        <a href="#">Action</a>
+                    </li>
+                    <li>
+                        <a href="#">Another action</a>
+                    </li>
+                    <li>
+                        <a href="#">Something else here</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <a href="#">Separated link</a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
-    <br><br><br><br>
+    <br><br>
 
-
+    <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js" ></script>
 </section>
 </body>
 </html>
